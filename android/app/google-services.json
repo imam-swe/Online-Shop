@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148181179260",
+    "project_id": "greenbag-2f928",
+    "storage_bucket": "greenbag-2f928.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148181179260:android:0a89c93773c142309de2f9",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148181179260-ns5ouub2a32bmtg044n2tl8baupiao1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIAWkn9dX1wAu31_DBOQFnIAHlhPpAQLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148181179260-ns5ouub2a32bmtg044n2tl8baupiao1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
